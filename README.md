@@ -19,11 +19,11 @@ Buyurtma, to'lov va admin panelli botlarni boshidan oxirigacha yetkazib beraman:
 
 ## Tanlangan loyihalar
 
+- 📦 **[ms-file-toolkit](https://github.com/muslihiddinlive/ms-file-toolkit)**: fayllar bilan ishlash uchun AI function-calling kutubxonasi, [PyPI](https://pypi.org/project/ms-file-toolkit/)'da.
+- 🎵 **[Music Vibe Lab](https://github.com/muslihiddinlive/music-vibe-lab)**: audio vizualizator va effektlar (8D, reverb, bass boost, karaoke).
 - 🤖 **[@ParadoksAiBot](https://t.me/ParadoksAiBot)**: AI agent. Fayllar bilan ishlaydi, guruhlarni moderatsiya qiladi, admin va superadmin paneli bor.
 - 🎨 **[@LaborantRobot](https://t.me/LaborantRobot)**: 120+ shablonli sticker va emoji boti, PDF, QR va OCR.
-- 📦 **[ms-file-toolkit](https://github.com/muslihiddinlive/ms-file-toolkit)**: fayllar bilan ishlash uchun AI function-calling kutubxonasi, [PyPI](https://pypi.org/project/ms-file-toolkit/)'da.
 - 🛡️ **[Moderator-AI-Bot](https://github.com/muslihiddinlive/Moderator-AI-Bot)**: Telegram guruh moderatsiyasi uchun AI vositalari (aiogram).
-- 🎵 **[Music Vibe Lab](https://github.com/muslihiddinlive/music-vibe-lab)**: audio vizualizator va effektlar (8D, reverb, bass boost, karaoke).
 - 😀 **[GnEmoji Studio](https://github.com/muslihiddinlive/gnemoji-app)**: emoji shablonlari uchun Telegram Mini App.
 - 📬 **[telegram-form-worker](https://github.com/muslihiddinlive/telegram-form-worker)**: istalgan saytdan Telegramga xabar va fayl yuboruvchi Cloudflare Worker.
 - 🖥️ **[startup-rmm](https://github.com/muslihiddinlive/startup-rmm)**: kompyuterlarni Telegram va GUI orqali boshqarish tizimi.
